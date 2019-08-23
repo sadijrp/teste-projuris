@@ -1,6 +1,6 @@
 # teste-projuris
 
-Repositório com os códigos referentes aos testes.
+Repositório com os códigos referentes aos testes utilizando o Java 8 (1.8.0_201).
 
 ## Compilar/Executar
 
